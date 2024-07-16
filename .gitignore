@@ -2,3 +2,5 @@ venv
 Others
 .env
 src
+generate_hash.py
+__pycache__
